@@ -22,12 +22,12 @@ hackathon hoster and math enjoyer
 ### ✨ _this week_ ✨  
  
 x - - - - - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) $\in$ psets  
-codes - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs   
+codes - - [🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs   
 chals - - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs  
 
 ### 🍓 _all time_ 🍓  
 [Mathematics](https://github.com/pormonto/Mathematics) 🪄 - - - - - - - - - - - - - - - - - 0 problems solved  
-Competative Programming ⚡️ - - - - - 0 problems solved  
+Competative Programming ⚡️ - - - - - 1 problems solved  
 CTFs 🚩 - - - - - - - - - - - - - - - - - - - - - - - 0 blood taken 🩸
 
 
