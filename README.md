@@ -11,7 +11,7 @@ hackathon hoster and math enjoyer
 
 💤 **dir-sort** - tui sorter that organizes your files so much easier  
 💤 **everse** - image generator for small eink displays  
-🔧 **betterbus** - more accurate bus tracking for shuttles  
+🔧 [**betterbus**](https://github.com/pormonto/betterbus) - more accurate bus tracking for shuttles  
 💤 **vrain** - gamifying education  
 💤 **mercy** - << description redacted >>   
 
