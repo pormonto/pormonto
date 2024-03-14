@@ -2,6 +2,7 @@
 
 cybersecurity / hardware fanatic in the making  
 hackathon hoster and math enjoyer  
+vrain && mercy && magic
 
 ----
 
@@ -12,8 +13,8 @@ hackathon hoster and math enjoyer
 💤 **dir-sort** - tui sorter that organizes your files so much easier  
 💤 **everse** - image generator for small eink displays  
 🔧 [**betterbus**](https://github.com/pormonto/betterbus) - more accurate bus tracking for shuttles  
-💤 **vrain** - gamifying education  
-💤 **mercy** - << description redacted >>   
+💤 node - (game) machines in non-euclidian space
+💤 fishtank - repurposing chromebooks past their AUE date
 
 ----
 
