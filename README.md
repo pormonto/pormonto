@@ -2,7 +2,6 @@
 
 cybersecurity / hardware fanatic in the making  
 hackathon hoster and math enjoyer  
-vrain && mercy && magic
 
 ----
 
