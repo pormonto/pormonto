@@ -26,7 +26,7 @@ codes - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs
 chals - - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs  
 
 ### 🍓 _all time_ 🍓  
-Mathematics 🪄 - - - - - - - - - - - - - - - - - 0 problems solved  
+[Mathematics](https://github.com/pormonto/Mathematics) 🪄 - - - - - - - - - - - - - - - - - 0 problems solved  
 Competative Programming ⚡️ - - - - - 0 problems solved  
 CTFs 🚩 - - - - - - - - - - - - - - - - - - - - - - - 0 blood taken 🩸
 
