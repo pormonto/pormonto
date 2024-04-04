@@ -16,7 +16,7 @@ hackathon hoster and math enjoyer
 💤 fishtank - repurposing chromebooks past their AUE date  
 
 ----
-
+<!--
 ## ❤️‍🔥 _Stats_ ❤️‍🔥
 
 ### ✨ _this week_ ✨  
@@ -30,7 +30,7 @@ chals - - - [⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] (0/10) hrs
 Competative Programming ⚡️ - - - - - 0 problems solved  
 CTFs 🚩 - - - - - - - - - - - - - - - - - - - - - - - 0 blood taken 🩸
 
-
+-->
 
 
 
