@@ -3,18 +3,21 @@
 cybersecurity / hardware fanatic in the making  
 hackathon hoster and math enjoyer  
 
+
 ----
 
 ## Projects ☕
 
 (💤 is inactive) && (🔧 is active)
 
+All projects are currently 💤
+<!--
 💤 **dir-sort** - tui sorter that organizes your files so much easier  
 💤 **everse** - image generator for small eink displays  
 💤 **betterbus** - more accurate bus tracking for shuttles  
 💤 node - (game) machines in non-euclidian space  
 💤 fishtank - repurposing chromebooks past their AUE date  
-
+-->
 
 ----
 <!--
